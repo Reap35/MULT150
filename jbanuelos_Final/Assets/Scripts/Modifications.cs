@@ -1,0 +1,10 @@
+/* 
+Changed power up color
+Changed obstacle
+added fog
+light color change
+wall made into prefab
+
+
+
+*/
